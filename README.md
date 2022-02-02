@@ -1,6 +1,6 @@
 <h1 align="center">Hello there, I'm <br/> <a href="https://github.com/Moeefa">@Moeefa</a>!</h1>
 
-<img align="right" width="120" src="https://github.com/Moeefa/Moeefa/raw/main/assets/20220202_104532.png"></img>
+<img align="right" width="90" src="https://github.com/Moeefa/Moeefa/raw/main/assets/20220202_104532.png"></img>
 I'm actually a student from Brazil 🇧🇷 learning:
 <br/>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript&logoColor=DD9C25)
