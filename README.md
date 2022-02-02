@@ -1,5 +1,5 @@
-## Hello there! I'm [@Moeefa](https://github.com/Moeefa).
-![Moeefa](https://github.com/Moeefa/Moeefa/raw/main/assets/signature.png)
+<h1 align="center">Hello there, I'm <br/> <a href="https://github.com/Moeefa">@Moeefa</a>!</h1>
+
 I'm actually a student from Brazil 🇧🇷 learning:
 <br/>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript&logoColor=DD9C25)
