@@ -12,6 +12,6 @@ Did some bots at:
 <br/>
 ![Discord](http://img.shields.io/badge/-Discord-eee?style=flat&color=222222&logo=discord&logoColor=5865F2)
 <br/><br/>
-I just started learning code for fun, and I wanna improve my knowledge as far I can. 
+I started learning code for fun, and I wanna improve my knowledge as far I can. 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Moeefa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
