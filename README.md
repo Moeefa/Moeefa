@@ -14,4 +14,4 @@ Did some bots at:
 <br/><br/>
 I just started learning code for fun, and I wanna improve my knowledge as far I can. 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Moeefa&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Moeefa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
