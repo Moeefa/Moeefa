@@ -5,8 +5,9 @@ I'm actually an IT student at IFMT (Instituto Federal de Mato Grosso - Campus Ce
 <br/>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat&logo=javascript&color=222222&logoColor=DD9C25)
 ![HTML5](http://img.shields.io/badge/-HTML5-eee?style=flat&color=222222&logo=html5&logoColor=E34F26)
+![CSS3](http://img.shields.io/badge/-CSS3-eee?style=flat&color=222222&logo=css3&logoColor=1572B6)
 ![Java](http://img.shields.io/badge/-Java-eee?style=flat&color=222222&logo=java&logoColor=007396)
-![NodeJS](http://img.shields.io/badge/-NodeJS-eee?style=flat&color=222222&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAgVBMVEUzmTMzkTM0mDQslSwtlS00mzQAAAA7nTsymDIzmDMwmDAymTIzmDMzmTMzmDMzmDMzlzM0mTQzmTMzmTMzmTMzmTMzmTM0mjQ1nDUxlzEymDIzmTMzmTMzmTMzmTMzmTMwlzAzmTMzmTMzmTMzmTMzmTMzmTM0mTQzmTMzmTP///8ybrFJAAAAKXRSTlMAAAAAAAAAAAAAAA9RxlIRBjSR6/7vmzkIAyd21Nt8JwMauPwrKvlQxcV6L9IAAABUSURBVAjXY2RgZGTkYGQEUl8ZwUx2EAUSZfz0jVESSPEygMAXkIgiIyMbAwT8+v+fUeU/jAfkMzKqMjLDuX//k8ZFMwrNIjRnoDkS7AUZxqcQLwAA4+0cex8ENfMAAAAASUVORK5CYII=)
+![NodeJS](http://img.shields.io/badge/-NodeJS-eee?style=flat&color=222222&logo=nodedotjs)
 <br/>
 Also I do some bots at Discord.
 
