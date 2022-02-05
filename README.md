@@ -2,7 +2,7 @@
 
 <img align="right" width="100" src="https://github.com/Moeefa/Moeefa/raw/main/assets/20220202_104532.png"></img>
 I'm actually an IT student at IFMT (Instituto Federal de Mato Grosso - Campus Cel. Octayde Jorge da Silva) from Brazil 🇧🇷.
-Languages that I'm learning/I know:
+<br/>Languages that I'm learning/I know:
 <br/>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat&logo=javascript&color=222222&logoColor=DD9C25)
 ![HTML5](http://img.shields.io/badge/-HTML5-eee?style=flat&color=222222&logo=html5&logoColor=E34F26)
