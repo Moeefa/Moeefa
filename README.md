@@ -1,9 +1,9 @@
-<h1 align="center">Hello there, I'm <br/> <a href="https://github.com/Moeefa">@Moeefa</a>!</h1>
+<h1 align="center">Hello there, I'm  
+<a href="https://github.com/Moeefa">@Moeefa</a>!</h1>
 
 <img align="right" width="100" src="/assets/20220202_104532.png"></img>
-I'm actually an IT student at IFMT (Instituto Federal de Mato Grosso - Campus Cel. Octayde Jorge da Silva).
-<br/>Languages/Frameworks that I'm learning/I know:
-<br/>
+I'm actually an IT student at IFMT (Instituto Federal de Mato Grosso - Campus Cel. Octayde Jorge da Silva).  
+Languages/Frameworks that I'm learning/I know:  
 ![TypeScript](https://img.shields.io/badge/-TypeScript-eee?style=flat&logo=typescript&color=222222)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat&logo=javascript&color=222222)
 ![HTML5](http://img.shields.io/badge/-HTML5-eee?style=flat&color=222222&logo=html5)
@@ -12,8 +12,7 @@ I'm actually an IT student at IFMT (Instituto Federal de Mato Grosso - Campus Ce
 ![Python](http://img.shields.io/badge/-Python-eee?style=flat&color=222222&logo=python)
 ![Node.js](http://img.shields.io/badge/-Node.js-eee?style=flat&color=222222&logo=nodedotjs)
 ![React](http://img.shields.io/badge/-React-eee?style=flat&color=222222&logo=react)
-![Next.js](http://img.shields.io/badge/-Next.js-eee?style=flat&color=222222&logo=next.js)
-<br/>
+![Next.js](http://img.shields.io/badge/-Next.js-eee?style=flat&color=222222&logo=next.js)  
 Also I do some bots at Discord.
 
 I started learning code for fun, and I wanna improve my knowledge as far I can. 
