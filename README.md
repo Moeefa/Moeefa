@@ -1,7 +1,7 @@
 <h1 align="center">Hello there, I'm<br/>
 <a href="https://github.com/Moeefa">@Moeefa</a>!</h1>
 
-<img align="right" width="100" src="/assets/20220202_104532.png"></img>
+<img align="right" width="100" src="/assets/OneOne.png"></img>
 I'm actually an IT student at IFMT (Instituto Federal de Mato Grosso - Campus Cel. Octayde Jorge da Silva).  
 Languages/Frameworks that I'm learning/I know:  
 ![TypeScript](https://img.shields.io/badge/-TypeScript-eee?style=flat&logo=typescript&color=222222)
