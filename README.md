@@ -13,8 +13,8 @@ Languages/Frameworks that I'm learning/I know:
 ![Node.js](http://img.shields.io/badge/-Node.js-eee?style=flat&color=222222&logo=nodedotjs)
 ![React](http://img.shields.io/badge/-React-eee?style=flat&color=222222&logo=react)
 ![Next.js](http://img.shields.io/badge/-Next.js-eee?style=flat&color=222222&logo=next.js)  
-Also, I do some bots at Discord.
+Also, I make some bots at Discord.
 
-I started learning code for fun, and I wanna improve my knowledge as far I can. 
+I started coding for fun, and I wanna improve my knowledge as far I can. 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Moeefa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
