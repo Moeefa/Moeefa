@@ -13,6 +13,8 @@ Here are some cool things that I'm learning/I know:
 ![Node.js](http://img.shields.io/badge/-Node.js-eee?style=flat&color=222222&logo=nodedotjs)
 ![React](http://img.shields.io/badge/-React-eee?style=flat&color=222222&logo=react)
 ![Next.js](http://img.shields.io/badge/-Next.js-eee?style=flat&color=222222&logo=next.js)  
+![C#](https://img.shields.io/badge/-Csharp-eee?style=flat&color=222222&logo=csharp)
+![Unity](https://img.shields.io/badge/-Unity-eee?style=flat&color=222222&logo=unity)
  
 I started coding for fun when I was younger, and now I wanna improve my knowledge as far as I can. 
 
