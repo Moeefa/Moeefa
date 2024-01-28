@@ -8,6 +8,7 @@ Here are some cool things that I'm learning/I know:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat&logo=javascript&color=222222)
 ![HTML5](http://img.shields.io/badge/-HTML5-eee?style=flat&color=222222&logo=html5)
 ![CSS3](http://img.shields.io/badge/-CSS3-eee?style=flat&color=222222&logo=css3&logoColor=1572B6)
+![CSS3](http://img.shields.io/badge/-Tailwind-eee?style=flat&color=222222&logo=tailwindcss)
 ![Java](http://img.shields.io/badge/-Java-eee?style=flat&color=222222&logo=java&logoColor=007396)
 ![Python](http://img.shields.io/badge/-Python-eee?style=flat&color=222222&logo=python)
 ![Node.js](http://img.shields.io/badge/-Node.js-eee?style=flat&color=222222&logo=nodedotjs)
