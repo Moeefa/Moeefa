@@ -2,8 +2,10 @@
 <a href="https://github.com/Moeefa">@Moeefa</a>!</h1>
 
 <img align="right" width="100" src="/assets/OneOne.png"></img>
-I'm actually an IT student at IFMT (Instituto Federal de Mato Grosso - Campus Cel. Octayde Jorge da Silva).  
-Here are some cool things that I'm learning/I know:  
+I'm an IT student graduated at IFMT (Instituto Federal de Mato Grosso - Campus Cel. Octayde Jorge da Silva).<br/>
+I started coding for fun when I was younger, and now I wanna improve my knowledge far as I can. 
+
+### Some cools things I use: 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-eee?style=flat&logo=typescript&color=222222)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat&logo=javascript&color=222222)
 ![HTML5](http://img.shields.io/badge/-HTML5-eee?style=flat&color=222222&logo=html5)
@@ -17,6 +19,4 @@ Here are some cool things that I'm learning/I know:
 ![C#](https://img.shields.io/badge/-Csharp-eee?style=flat&color=222222&logo=csharp)
 ![Unity](https://img.shields.io/badge/-Unity-eee?style=flat&color=222222&logo=unity)
  
-I started coding for fun when I was younger, and now I wanna improve my knowledge as far as I can. 
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Moeefa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
