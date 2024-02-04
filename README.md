@@ -5,7 +5,7 @@
 I'm an IT student graduated at IFMT (Instituto Federal de Mato Grosso - Campus Cel. Octayde Jorge da Silva).<br/>
 I started coding for fun when younger, and now I wanna improve my knowledge far as I can!
 
-### Some cools things I use: 
+### Some cool things I use: 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,ts,electron,react,tailwind,nextjs,jquery,java,py,js,html,css,mongodb,postgres,unity,vscode,vercel)](https://github.com/Moeefa)
 
 ### Contact me:
