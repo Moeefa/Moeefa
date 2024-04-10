@@ -17,7 +17,7 @@ I started coding for fun when younger, and now I wanna improve my knowledge far 
 &nbsp;
 <div align="center">
  <a href="https://github.com/Moeefa">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moeefa&layout=compact&langs_count=7&theme=dark&border_color=#18181b&bg_color=#18181b&hide_border=true&border_radius=6"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Moeefa&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_color=#18181b&bg_color=#18181b&hide_border=true&border_radius=6"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moeefa&layout=compact&theme=dark&langs_count=7&border_color=18181b&bg_color=18181b&hide_border=true&border_radius=6"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Moeefa&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_color=18181b&bg_color=18181b&hide_border=true&border_radius=6"/>
  </a>
 </div>
