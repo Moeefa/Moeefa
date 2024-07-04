@@ -1,9 +1,9 @@
-<h1 align="center">Hello there, I'm<br/>
-<a href="https://github.com/Moeefa">@Moeefa</a>! 👋</h1>
+<h2 align="center">Hello there, I'm<br/>
+<a href="https://github.com/Moeefa">@Moeefa</a>! 👋</h2>
 
-I’m a front-end developer, with experience in React, Next.js and a few other technologies.<br/>
-Currently studying computer engineering and graduated at IFMT (Instituto Federal de Mato Grosso - Campus Cel. Octayde Jorge da Silva) as IT.<br/>
-I started coding for fun when younger, and now I wanna improve my knowledge far as I can!
+I'm a front-end developer, with experience in React, Next.js and some other technologies.<br/>
+I started programming for fun around 2013 and now I want to improve my knowledge as much as I can!<br/>
+Currently studying computer engineering and graduated from IFMT (Instituto Federal de Mato Grosso - Campus Cel. Octayde Jorge da Silva) as IT. 🎓<br/>
 
 ### Technologies: 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,ts,electron,react,tailwind,nextjs,jquery,java,py,js,html,css,mongodb,postgres,unity,vscode,vercel,rust,prisma,tauri&theme=light)](https://github.com/Moeefa)
