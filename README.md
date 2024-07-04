@@ -2,7 +2,7 @@
 <a href="https://github.com/Moeefa">@Moeefa</a>! 👋</h2>
 
 I'm a front-end developer, with experience in React, Next.js and some other technologies.<br/>
-I started programming for fun around 2013 and now I want to improve my knowledge as much as I can!<br/>
+I started programming for fun around 2017 and now I want to improve my knowledge as much as I can!<br/>
 Currently studying computer engineering and graduated from IFMT (Instituto Federal de Mato Grosso - Campus Cel. Octayde Jorge da Silva) as IT. 🎓<br/>
 
 ### Technologies: 
