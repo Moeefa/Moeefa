@@ -16,12 +16,6 @@ I love working with a variety of tools and technologies to build clean and effic
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,ts,electron,react,tailwind,nextjs,jquery,java,py,js,html,css,mongodb,postgres,unity,vscode,vercel,rust,prisma,tauri&theme=light)](https://github.com/Moeefa)
 
-### 📈 GitHub Stats:
-<a href="https://github.com/Moeefa">
-  <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moeefa&layout=compact&theme=light&langs_count=7&border_color=fff&bg_color=fff&hide_border=true&border_radius=6"/>
-  <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=Moeefa&show_icons=true&theme=light&include_all_commits=true&count_private=true&border_color=fff&bg_color=fff&hide_border=true&border_radius=6"/>
-</a>
-
 ### 💬 Let’s Connect!
 Feel free to reach out! I love connecting with fellow developers and tech enthusiasts. Whether you want to collaborate, chat about projects, or ask questions, hit me up on any platform below:
 
