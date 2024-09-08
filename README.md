@@ -9,12 +9,12 @@ I'm a passionate **front-end developer** with expertise in **React**, **Next.js*
 I love working with a variety of tools and technologies to build clean and efficient code. Here’s what I’m proficient in:
 
 - Languages: TypeScript, JavaScript, Python, Rust, Java, HTML, CSS
-- Frameworks & Libraries: React, Next.js, Tailwind CSS, jQuery, Prisma, Electron, Tauri
+- Frameworks & Libraries: React, Next.js, Tailwind CSS, jQuery, Prisma, Electron, Tauri, Discord.js
 - Databases: MongoDB, PostgreSQL
-- Tools & Platforms: Node.js, Vercel, Unity, Visual Studio Code
+- Tools & Platforms: Node.js, Vercel, Unity, Visual Studio Code, Notion
 - Other: Git, GitHub
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,ts,electron,react,tailwind,nextjs,jquery,java,py,js,html,css,mongodb,postgres,unity,vscode,vercel,rust,prisma,tauri&theme=light)](https://github.com/Moeefa)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,py,rust,java,html,css,react,nextjs,tailwind,jquery,prisma,electron,tauri,discordjs,mongodb,postgres,nodejs,vercel,unity,vscode,notion,git,github&theme=light)](https://github.com/Moeefa)
 
 ### 💬 Let’s Connect!
 Feel free to reach out! I love connecting with fellow developers and tech enthusiasts. Whether you want to collaborate, chat about projects, or ask questions, hit me up on any platform below:
